@@ -1,6 +1,5 @@
 # Ansible
-Ansible - AWS EC2 Instances
-Demo Ansible Playbook for creating, stopping, terminating the EC2 instance
+Ansible - AWS EC2 Instance
 
 Create a custom Security Group in AWS to allow ports 22 (SSH), 80 (HTTP) and ICMP.
 Create/Stop/Terminate the EC2 instance - Using Ansible EC2 module
