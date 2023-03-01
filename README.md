@@ -6,3 +6,4 @@ Create/Stop/Terminate the EC2 instance - Using Ansible EC2 module
 Wait for the SSH is up on Instance.
 Installation
 Firstly, we need to install and configure.
+For aws credts i used ansible vault
